@@ -3,7 +3,7 @@
 ------------
 
 Sou desenvolvedor backend/mobile em aprendizado, <br>
-Entusiasta na área de tecnologia na parte de desenvolvimento e sempre buscando meu máximo para evolução como professional. E no meus tempos livres quando não estou estudando tenho como hobby assistir filmes, seriados e jogar Airsoft.
+Entusiasta na área de tecnologia na parte de desenvolvimento e sempre buscando meu máximo para evolução como profissional. E no meus tempos livres quando não estou estudando tenho como hobby assistir filmes, seriados e jogar Airsoft.
 
 Atualmente focado nos estudos NodeJS, TypeScript e React Native.
 
