@@ -7,6 +7,8 @@ Entusiasta na área de tecnologia na parte de desenvolvimento e sempre buscando 
 
 Atualmente focado nos estudos NodeJS, TypeScript e React Native.
 
+#NeverStopLearning
+
 💻 Tecnologias
 ---------
 `Em desenvolvimento`<br>
