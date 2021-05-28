@@ -5,7 +5,7 @@
 Sou desenvolvedor backend/mobile em desenvolvimento, <br>
 Entusiasta na área de tecnologia na parte de desenvolvimento e sempre buscando meu máximo para evolução como profissional. E no meus tempos livres quando não estou estudando tenho como hobby assistir filmes, seriados e jogar Airsoft.
 
-Atualmente focado nos estudos NodeJS, TypeScript e React Native.
+Atualmente focado nos estudos NodeJS, TypeScript, Docker e Jest no bootcamp Ignite da Rocketseat...
 
 #NeverStopLearning 🚀
 
@@ -14,9 +14,11 @@ Atualmente focado nos estudos NodeJS, TypeScript e React Native.
 `Em aprendizado`<br>
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)<br>
 ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
 <br><br>
 `Conhecimento`<br>
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
