@@ -2,8 +2,7 @@
 
 ------------
 
-Sou desenvolvedor backend/mobile em desenvolvimento, <br>
-Entusiasta na área de tecnologia na parte de desenvolvimento e sempre buscando meu máximo para evolução como profissional. E no meus tempos livres quando não estou estudando tenho como hobby assistir filmes, seriados e jogar Airsoft.
+Sou um entusiasta da área de tecnologia, principalmente na parte de desenvolvimento, buscando desenvolver ao máximo conhecimento e habilidades para minha evolução como desenvolvedor. E no meus tempos livres quando não estou estudando tenho como hobby assistir filmes, seriados e jogar Airsoft.
 
 Atualmente focado nos estudos NodeJS, TypeScript, Docker e Jest no bootcamp Ignite da Rocketseat...
 
