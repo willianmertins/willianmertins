@@ -2,21 +2,10 @@
 
 ------------
 
-Sou um entusiasta da área de tecnologia, principalmente na parte de desenvolvimento, buscando desenvolver ao máximo conhecimento e habilidades para minha evolução como desenvolvedor. E no meus tempos livres quando não estou estudando tenho como hobby assistir filmes, seriados e jogar Airsoft.
-
-Atualmente focado nos estudos NodeJS, TypeScript, Docker e Jest no bootcamp Ignite da Rocketseat...
-
-#NeverStopLearning 🚀
+Sou desenvolvedor de software com mais de 3 anos de experiência, atualmente liderando um dos projetos da Klassmatt com tecnologias como .NET (C#), VueJS e SQL Server. Comecei minha jornada em TI em 2014 no suporte técnico e, desde 2018, atuo com desenvolvimento, inicialmente focado em automação de processos (RPA). Acredito na entrega contínua de valor, combinando boas práticas de código, compreensão das necessidades dos usuários e construção de soluções que simplificam processos reais. Sou movido por desafios técnicos e apaixonado por criar experiências funcionais e eficientes.
 
 💻 Tecnologias
 ---------
-`Em aprendizado`<br>
-![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)<br>
-![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br><br>
 `Conhecimento`<br>
