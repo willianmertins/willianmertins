@@ -6,8 +6,6 @@ Sou desenvolvedor de software com mais de 3 anos de experiência, atualmente lid
 
 💻 Tecnologias
 ---------
-
-<br><br>
 `Conhecimento`<br>
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
